@@ -1,12 +1,12 @@
 {
-    "logging": {
+    "login": {
         "time_to_log": 30,
-        "log_duration": 5,
+        "log_frame_req": 5,
         "log_framedelay": 0.5      
     }
     "register": {
         "time_to_reg": 30,
-        "reg_duration": 10,
+        "req_frames": 100,
         "reg_framedelay": 0.25
     }
 }
